@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "contsurvplot"]
+	path = contsurvplot
+	url = https://github.com/robindenz1/contsurvplot
+	shallow = true
+	registered = true
