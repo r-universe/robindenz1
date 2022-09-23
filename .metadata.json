@@ -1,5 +1,9 @@
 [
   {
+    "package": "adjustedCurves",
+    "oncran": true
+  },
+  {
     "package": "contsurvplot",
     "oncran": true
   }

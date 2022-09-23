@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adjustedCurves"]
+	path = adjustedCurves
+	url = https://github.com/robindenz1/adjustedcurves
+	shallow = true
+	registered = true
 [submodule "contsurvplot"]
 	path = contsurvplot
 	url = https://github.com/robindenz1/contsurvplot
