@@ -8,3 +8,6 @@
 [submodule "contsurvplot"]
 	path = contsurvplot
 	url = https://github.com/robindenz1/contsurvplot
+[submodule "simDAG"]
+	path = simDAG
+	url = https://github.com/robindenz1/simdag
